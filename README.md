@@ -1,3 +1,11 @@
+## Usage
+
+`cd src`
+
+`npm i`
+
+`node index.js`
+
 ## Decentralized Electronic Voting
 
 We plan on tackling three major issues with our decentralized voting app: 
